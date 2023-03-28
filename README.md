@@ -1,5 +1,5 @@
 # Reliable Data Transfer
-### stop-and-wait implementation
+### go-back-n implementation
 
 Rigo Sandoval, CSCI4211S23, 3/27/2023
 Java, A.java B.java,, simulator.java
